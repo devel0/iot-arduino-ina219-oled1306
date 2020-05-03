@@ -1,0 +1,7 @@
+{
+    "programmer": "USBasp",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "sketch": "iot-arduino-ina219-oled1306/iot-arduino-ina219-oled1306.ino",
+    "port": "/dev/ttyUSB0"
+}

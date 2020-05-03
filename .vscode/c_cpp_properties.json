@@ -1,0 +1,41 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "path": [
+                    "/home/devel0/Arduino/libraries",
+                    "/home/devel0/Arduino/libraries/ArduinoINA219/**",
+                    "/home/devel0/Arduino/libraries/Adafruit_INA219/**",
+                    "/home/devel0/softcollect/public/arduino/arduino-1.8.10/hardware/tools/avr/avr/include/avr",
+                    "/home/devel0/softcollect/public/arduino/arduino-1.8.10/hardware/arduino/avr/cores/arduino"
+                ]
+            },
+            "name": "Linux",
+            "includePath": [
+                "/home/devel0/Arduino/libraries/TinyOLED-Fonts/src",
+                "/home/devel0/Arduino/libraries/U8g2_for_Adafruit_GFX/src",
+                "/home/devel0/Arduino/libraries/Adafruit_GFX_Library",
+                "/home/devel0/Arduino/libraries/Adafruit_SSD1306",
+                "/home/devel0/Arduino/libraries/Adafruit_INA219",
+                "/home/devel0/Arduino/libraries/SoftWire/src",
+                "/home/devel0/Arduino/libraries/OneWire",
+                "/home/devel0/Arduino/libraries/ArduinoINA219/**",
+                "/home/devel0/Arduino/libraries/Adafruit_INA219/**",
+                "${workspaceFolder}/**",
+                "/home/devel0/Documents/softcollect/public/arduino/arduino-1.8.10/hardware/arduino/avr/**",
+                "/home/devel0/Documents/softcollect/public/arduino/arduino-1.8.10/tools/**",
+                "/home/devel0/softcollect/public/arduino/arduino-1.8.10/hardware/arduino/avr/**",
+                "/home/devel0/softcollect/public/arduino/arduino-1.8.10/tools/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": [
+                "/home/devel0/softcollect/public/arduino/arduino-1.8.10/hardware/arduino/avr/cores/arduino/Arduino.h"
+            ]
+        }
+    ],
+    "version": 4
+}
